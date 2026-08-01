@@ -21,6 +21,6 @@ pkg install gcc
 接着运行如下指令
 ```
 gcc -shared -fPIC -o fake_tcp.so fake_tcp.c -ldl
-'''
+```
 等出现两个二进制文件夹之后，就成功了
 
