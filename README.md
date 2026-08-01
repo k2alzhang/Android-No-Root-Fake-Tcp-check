@@ -10,4 +10,4 @@ Generate a dummy empty file to ensure that certain software in the Termux root c
 
 ## 如何安装
 termux首先先执行如下指令安装gcc
-'pkg install gcc'
+`pkg install gcc`
