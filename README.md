@@ -7,3 +7,6 @@ Generate a dummy empty file to ensure that certain software in the Termux root c
 
 ## 生成文件所使用的编程语言
 我们使用c#语言来生成相关的空伪装文件来绕过相关端口检测的文件
+
+## 如何安装
+termux首先先执行如下指令安装
