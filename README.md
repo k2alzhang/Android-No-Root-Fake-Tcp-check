@@ -22,5 +22,5 @@ pkg install gcc
 ```
 gcc -shared -fPIC -o fake_tcp.so fake_tcp.c -ldl
 ```
-等出现两个二进制文件夹之后，就成功了
+等出现两个二进制文件之后，就成功了
 
