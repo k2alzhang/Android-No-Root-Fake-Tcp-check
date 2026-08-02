@@ -29,4 +29,4 @@ gcc -shared -fPIC -o fake_tcp.so fake_tcp.c -ldl
 这是转载仓库，原作者不是我，但本人已经明确取得原作者同意进行转载
 
 # B站原作者视频
-![](https://www.bilibili.com/video/BV1nVGc6iExD?buvid=XX2911923AA46EE67964C1283E51D9908E621&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=1vS8YksZmjtAH5%2Bq2iuW138FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=94124ebd-62ae-4f77-846f-6a6baa5f9bd3&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1785673388&unique_k=yrrCq7W&up_id=1880806876)
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117012843993800&bvid=BV1nVGc6iExD&cid=40462585770&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
